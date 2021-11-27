@@ -1,6 +1,8 @@
 # Shape_Context_Matching
 Shape Context Matching
 
+![](https://gitee.com/Ruoyu_Chen/images/raw/master/img/20211128021024.png)
+
 ## Introduction
 
 这个工作的背景，是中国科学院大学课程中，来自中科院自动化所刘智勇研究员的工业视觉检测的一个大作业。
