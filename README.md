@@ -17,9 +17,9 @@ Shape Context Matching
 
 注意，需要安装的库（正常的版本应该都可以的）：
 > opencv-python
-
+> 
 > numpy
-
+> 
 > scipy
-
+> 
 > matplotlib
