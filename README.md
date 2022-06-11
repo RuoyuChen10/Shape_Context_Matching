@@ -26,3 +26,7 @@ Shape Context Matching
 > scipy
 > 
 > matplotlib
+
+## report
+
+我们汇报的工作请见文件夹[PPT](./ppt/)
